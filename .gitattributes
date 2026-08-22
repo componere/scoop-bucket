@@ -1,0 +1,2 @@
+# Scoop's pinned bucket tests require CRLF text in the Windows checkout.
+* text=auto eol=crlf
