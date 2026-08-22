@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/componere/incusos-builder/releases/download/v0.2.0/incusos-builder_0.2.0_windows_amd64.zip",
+            "bin": [
+                "incusos-builder.exe"
+            ],
+            "hash": "1c439277711a7c3bacd5eb5160b4633268543e587d8b6d5fec1cd9d44b42d01a"
+        },
+        "arm64": {
+            "url": "https://github.com/componere/incusos-builder/releases/download/v0.2.0/incusos-builder_0.2.0_windows_arm64.zip",
+            "bin": [
+                "incusos-builder.exe"
+            ],
+            "hash": "0c4618c4070155138051db50e5e4e33870caff53e64f6014af8c23e241c088c7"
+        }
+    },
+    "homepage": "https://github.com/componere/incusos-builder",
+    "license": "Apache-2.0 OR MIT",
+    "description": "Build seeded IncusOS installation media from a YAML config"
+}
